@@ -11,6 +11,12 @@ XiuZZZZZ
 zhuxiaohang2012@hotmail.com
 zhugh-001
 
+- deepseek
+  - 查看用量 https://platform.deepseek.com/usage
+- github
+  - 项目地址：https://github.com/XiuZZZZZ/jinqiuchuanqi.git
+
+
 ## 如何开始项目
 
 ### 环境准备
@@ -40,6 +46,7 @@ zhugh-001
 ### 进阶使用 ai 赋能
 - ima https://ima.qq.com/wiki/?shareId=e215ccd95d5440a4b1fa97339fbc0aaef07a041459ab2ee7781163f2039e1253&webFrom=10000079
 - 官方入口: https://ieasyclick.com/
+- easyclick与ai结合编程文档：https://ieasyclick.com/docs/zh-cn/advance/android-ai/
 
 
 ### 我的easyclick账户
@@ -48,4 +55,9 @@ zhugh-001
 ### 商业化
 - 购买卡密
     - http://laoleng.vip/docs/tools/easyclick/ios-qk/qa/authorize/
--
+
+### git
+
+- 查看本地关联的远程仓库
+  - git remote -v
+  - fetch和push是什么
