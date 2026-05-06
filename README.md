@@ -26,7 +26,7 @@
 # 参考
 
 - ima https://ima.qq.com/wiki/?shareId=e215ccd95d5440a4b1fa97339fbc0aaef07a041459ab2ee7781163f2039e1253&webFrom=10000079
-- 官方入口: https://ieasyclick.com/
-- easyclick与ai结合编程文档：https://ieasyclick.com/docs/zh-cn/advance/android-ai/
+- easyclick 官方入口: https://ieasyclick.com/
+- easyclick 与 ai 结合编程文档：https://ieasyclick.com/docs/zh-cn/advance/android-ai/
 
 
