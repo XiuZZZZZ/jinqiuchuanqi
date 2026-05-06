@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 这是一个半透明红色的全屏占位框 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#88FF0000">
+    <!-- #88FF0000 代表半透明红色，如果你想改成纯色或别的颜色可以改这里的十六进制 -->
+</LinearLayout>
